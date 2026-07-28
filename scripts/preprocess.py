@@ -1,0 +1,5 @@
+print("Lecture du fichier train.csv")
+print("Suppression des valeurs manquantes")
+print("Encodage des variables")
+print("Normalisation")
+print("Export terminé")
