@@ -1,0 +1,11 @@
+2026-07-18 08:00:10 INFO Application démarrée
+2026-07-18 08:00:15 INFO Chargement du dataset
+2026-07-18 08:00:17 WARNING Valeurs manquantes détectées
+2026-07-18 08:00:20 INFO Nettoyage terminé
+2026-07-18 08:00:30 INFO Modèle prêt
+Epoch 1 : Loss = 0.82
+Epoch 2 : Loss = 0.60
+Epoch 3 : Loss = 0.45
+Epoch 4 : Loss = 0.32
+Epoch 5 : Loss = 0.28
+Training terminé.

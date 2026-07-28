@@ -1,0 +1,10 @@
+./logs/training.log:Epoch 1 : Loss = 0.82
+./logs/training.log:Epoch 2 : Loss = 0.60
+./logs/training.log:Epoch 3 : Loss = 0.45
+./logs/training.log:Epoch 4 : Loss = 0.32
+./logs/training.log:Epoch 5 : Loss = 0.28
+./logs/global.log:Epoch 1 : Loss = 0.82
+./logs/global.log:Epoch 2 : Loss = 0.60
+./logs/global.log:Epoch 3 : Loss = 0.45
+./logs/global.log:Epoch 4 : Loss = 0.32
+./logs/global.log:Epoch 5 : Loss = 0.28
